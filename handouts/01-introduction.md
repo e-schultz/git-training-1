@@ -8,6 +8,11 @@ The agenda will be:
   - Distributed vs Central source control
   - Snapshots of changes vs Deltas
   - Three states of git: History, Staging, Working
+- Git Workflow & Rangle Flow
+  - Forks
+  - Branches
+  - Commits 
+  - PRs  
 - Git Command Basics
   - Saving changes (init, status, add, commit)
   - Viewing history (log)
@@ -53,7 +58,7 @@ With Git, a snapshot is taken - a full version of the files in the staging area 
 
 ## Easily Curated Commits
 
-Since Git stores full versions of the files with each commit, and everything is stored locally - it's easier to curate commits (expand this)
+Since Git stores full versions of the files with each commit, and everything is stored locally - it's easier to curate commits.
 
 # Git configuration
 
